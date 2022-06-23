@@ -1,2 +1,1 @@
-# zero_day
-This is my first repository as a full-stack engineer
+This text is supposed to be _emphasized_ and **stronged**
